@@ -1,9 +1,9 @@
+</div>
 <div align="center">
+  # Hey, I'm Amartya Ghosh 👋  
   <img src="https://media.giphy.com/media/0R7AQsnA3yIUcbvztz/giphy.gif?cid=790b7611up31ygymxwn695p3e5md8ws8mzd48j6avtiq74ro&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="AI/ML Engineer" />
 </div>
 
----
-# Hey , I'm Amartya Ghosh 👋
 ---
 
 ## 🚀 **About Me**
@@ -66,9 +66,23 @@ and drive innovation. Seeking opportunities to leverage expertise in AI/ML for i
 
 ## 📈 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmartyaGhoshyoo&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaGhoshyoo&layout=compact&theme=radical)
+### 📈 My GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AmartyaGhoshyoo&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaGhoshyoo&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
