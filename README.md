@@ -66,6 +66,14 @@ and drive innovation. Seeking opportunities to leverage expertise in AI/ML for i
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
+<div align="center">
+
+### 🐍 Watch My Contributions Snake!
+
+![GitHub Snake](https://github.com/YourUsername/YourUsername/blob/output/github-snake.svg)
+
+</div>
+---
 
 ## 📈 **GitHub Stats**
 
