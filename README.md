@@ -1,12 +1,9 @@
-# Hi, I'm Amartya Ghosh 👋
-
 <div align="center">
   <img src="https://media.giphy.com/media/0R7AQsnA3yIUcbvztz/giphy.gif?cid=790b7611up31ygymxwn695p3e5md8ws8mzd48j6avtiq74ro&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="AI/ML Engineer" />
 </div>
 
-🎯 **AI/ML Engineer** | 💻 **Python Expert** | 🤖 **Deep Learning & NLP Specialist**  
-🌐 **Cloud Practitioner (AWS & Azure)** | 📱 **Mobile App Developer**
-
+---
+# Hey , I'm Amartya Ghosh 👋
 ---
 
 ## 🚀 **About Me**
@@ -24,6 +21,8 @@ and drive innovation. Seeking opportunities to leverage expertise in AI/ML for i
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### **Machine Learning & Deep Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -61,6 +60,7 @@ and drive innovation. Seeking opportunities to leverage expertise in AI/ML for i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
