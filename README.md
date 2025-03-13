@@ -1,13 +1,15 @@
-# Hi, I'm Amartya Ghosh 👋
+# Hi, I'm [Your Name] 👋
 
-🎯 **AI/ML Enthusiast** | 💻 **Advance Python** | 🤖 **Deep Learning & NLP Specialist**  
-🌐 **Cloud Practitioner (AWS & Azure)** | 📱 **Mobile Application Developer**
+![AI/ML Engineer](https://media.giphy.com/media/0R7AQsnA3yIUcbvztz/giphy.gif?cid=790b7611up31ygymxwn695p3e5md8ws8mzd48j6avtiq74ro&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+🎯 **AI/ML Engineer** | 💻 **Python Expert** | 🤖 **Deep Learning & NLP Specialist**  
+🌐 **Cloud Practitioner (AWS & Azure)** | 📱 **Mobile App Developer**
 
 ---
 
 ## 🚀 **About Me**
 
-I am a passionate **AI/ML Engineer** with expertise in **Python**, **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**. I also have hands-on experience with cloud platforms like **AWS** and **Azure**, and I develop **mobile applications** to bring AI solutions to life. I love solving real-world problems using cutting-edge technologies and building scalable, intelligent systems.
+I'm an **AI/ML Engineer** passionate about building intelligent systems using **Python**, **Machine Learning**, **Deep Learning**, and **NLP**. I also work with **AWS**, **Azure**, and develop **mobile applications** to bring AI solutions to life.
 
 ---
 
@@ -77,11 +79,6 @@ I am a passionate **AI/ML Engineer** with expertise in **Python**, **Machine Lea
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-## 💡 **Fun Fact**
-Did you know? The first AI program was written in 1951 by Christopher Strachey, who created a checkers-playing program!
 
 ---
 
