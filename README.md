@@ -73,6 +73,7 @@ and drive innovation. Seeking opportunities to leverage expertise in AI/ML for i
 ![GitHub Snake](https://github.com/AmartyaGhoshyoo/YourUsername/blob/output/github-snake.svg)
 
 </div>
+
 ---
 
 ## 📈 **GitHub Stats**
