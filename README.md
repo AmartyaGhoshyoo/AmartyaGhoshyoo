@@ -70,7 +70,7 @@ and drive innovation. Seeking opportunities to leverage expertise in AI/ML for i
 
 ### 🐍 Watch My Contributions Snake!
 
-![GitHub Snake](https://github.com/YourUsername/YourUsername/blob/output/github-snake.svg)
+![GitHub Snake](https://github.com/AmartyaGhoshYoo/YourUsername/blob/output/github-snake.svg)
 
 </div>
 ---
